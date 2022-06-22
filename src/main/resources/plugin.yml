@@ -1,0 +1,11 @@
+name: ExplosionNerf
+version: '${version}'
+main: me.jacob.explosionnerf.ExplosionNerf
+api-version: 1.16
+author: Jacob
+description: Makes End Crystals, TNT Minecarts and Respawn Anchors only able to damage players who can use them
+
+commands:
+  reloadexplosionnerf:
+    description: Reloads the configuration
+    usage: /<command>

@@ -1,0 +1,23 @@
+# Message to send to command sender when they try to run the reload command without
+# being console.
+not-console-message: "&cYou must be console to run this command!"
+
+# When an explosion is nefered, it will only deal damage to
+# the player that caused the explosion, and other players who can set off
+# the same type of explosion themselves.
+
+# Should End Crystal explosions be nerfed?
+end-crystal-nerf: true
+
+# Should natural end crystal explosions be nerfed?
+# This includes the end crystals on the obsidian pillars in the end dimension
+natural-end-crystal-nerf: true
+
+# Should beds be nerfed?
+bed-nerf: true
+
+# Should Respawn Anchors be nerfed?
+anchor-nerf: true
+
+# Should TNT minecarts be nerfed?
+tnt-minecart-nerf: false
